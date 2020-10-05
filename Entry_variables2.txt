@@ -1,0 +1,25 @@
+f1 tanh((sqrt((x-x01)^2+(y-y01)^2)-R)/w) 1st pinning site
+f2 tanh((sqrt((x-x02)^2+(y-y02)^2)-R)/w) 2nd pinning site
+f3 tanh((sqrt((x-x03)^2+(y-y03)^2)-R)/w) 3rd pinning site
+f4 tanh((sqrt((x-x04)^2+(y-y04)^2)-R)/w) 4th pinning site
+f5 tanh((sqrt((x-x05)^2+(y-y05)^2)-R)/w) 5th pinning site
+f6 tanh((sqrt((x-x06)^2+(y-y06)^2)-R)/w) 6th pinning site
+f7 tanh((sqrt((x-x07)^2+(y-y07)^2)-R)/w) 7th pinning site
+f8 tanh((sqrt((x-x08)^2+(y-y08)^2)-R)/w) 8th pinning site
+f9 tanh((sqrt((x-x09)^2+(y-y09)^2)-R)/w) 9th pinning site
+f10 tanh((sqrt((x-x010)^2+(y-y010)^2)-R)/w) 10th pinning site
+f11 tanh((sqrt((x-x011)^2+(y-y011)^2)-R)/w) 11th pinning site
+f12 tanh((sqrt((x-x012)^2+(y-y012)^2)-R)/w) 12th pinning site
+f13 tanh((sqrt((x-x013)^2+(y-y013)^2)-R)/w) 13th pinning site
+f14 tanh((sqrt((x-x014)^2+(y-y014)^2)-R)/w) 14th pinning site
+f15 tanh((sqrt((x-x015)^2+(y-y015)^2)-R)/w) 15th pinning site
+f16 tanh((sqrt((x-x016)^2+(y-y016)^2)-R)/w) 16th pinning site
+f17 tanh((sqrt((x-x017)^2+(y-y017)^2)-R)/w) 17th pinning site
+f18 tanh((sqrt((x-x018)^2+(y-y018)^2)-R)/w) 18th pinning site
+f19 tanh((sqrt((x-x019)^2+(y-y019)^2)-R)/w) 19th pinning site
+f20 tanh((sqrt((x-x020)^2+(y-y020)^2)-R)/w) 20th pinning site
+f21 tanh((sqrt((x-x021)^2+(y-y021)^2)-R)/w) 21th pinning site
+f22 tanh((sqrt((x-x022)^2+(y-y022)^2)-R)/w) 22th pinning site
+f23 tanh((sqrt((x-x023)^2+(y-y023)^2)-R)/w) 23th pinning site
+f24 tanh((sqrt((x-x024)^2+(y-y024)^2)-R)/w) 24th pinning site
+f f1*f2*f3*f4*f5*f6*f7*f8*f9*f10*f11*f12*f13*f14*f15*f16*f17*f18*f19*f20 pinning function

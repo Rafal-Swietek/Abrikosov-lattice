@@ -1,0 +1,6 @@
+alpha c*(T-Tc) alpha coefficient G-L
+c m/(mi0*e^2*(Tc)*(lambda_0^2)) G-L alpha const
+ksi ksi_0*sqrt(abs((T-Tc)/Tc)) coherence length
+lambda sqrt(m/(mi0*e^2*(Tc-T)*c)) London length
+kappa 4
+kappa2 kappa^2

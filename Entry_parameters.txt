@@ -1,0 +1,17 @@
+T 0[K] Temperature
+Tc 18[K] Critical temperature
+SCw 8[m] SC width
+SCh 8[m] SC height
+sigma 1 bulk conductivity above Tcrit
+Ba 0.73 Applied magnetic field
+kappa 4 G-L parameter
+R SCw/40 pin radius
+w SCw/160 pin anullus width
+x01 -1[m] 1st pin x-cord
+y01 -3[m] 1st pin y-cord
+x02 0[m]
+y02 -2[m]
+x03 1[m]
+y03 -1[m]
+x04 2[m]
+y04 0[m]
